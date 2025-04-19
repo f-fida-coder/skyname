@@ -1,0 +1,1464 @@
+Uri: https://eu.fw-cdn.com/12710015/709222.js
+File Name: C:\Downloaded Web Sites\www.skyexch.art\12710015\709222.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/css/skyexchange.css?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\css\skyexchange.css
+Content Type: text/css
+
+Uri: https://statics3.skyexch.art/css/theme_h2h.css?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\css\theme_h2h.css
+Content Type: text/css
+
+Uri: https://statics3.skyexch.art/favicon_skyEX.ico
+File Name: C:\Downloaded Web Sites\www.skyexch.art\favicon_skyEX.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://statics3.skyexch.art/images/agent/close_pop.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\agent\close_pop.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/agent/icon-go_back.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\agent\icon-go_back.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/agent/icon-pop_close.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\agent\icon-pop_close.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/announcement/ic-search.svg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\announcement\ic-search.svg
+Content Type: image/svg+xml
+
+Uri: https://statics3.skyexch.art/images/announcement/popup-header-mazaplay.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\announcement\popup-header-mazaplay.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/announcement/popup-header-mysports247.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\announcement\popup-header-mysports247.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/announcement/popup-header-skyexchange.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\announcement\popup-header-skyexchange.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg-backall-disabled.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-backall-disabled.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg-btn.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-btn.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/bg-btn_hover.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-btn_hover.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/bg-closed.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-closed.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/bg-closed_next.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-closed_next.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/bg-disabled.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-disabled.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg-error.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-error.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/bg-layall-disabled.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg-layall-disabled.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-backall.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-backall.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-backall_hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-backall_hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-disableall.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-disableall.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-layall.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-layall.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-layall_hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-layall_hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-line_market-name.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-line_market-name.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-line_market-team.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-line_market-team.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-line_market-vs.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-line_market-vs.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-progress-now.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-progress-now.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-progress.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-progress.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-scroe_event.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-scroe_event.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-scroe_line.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-scroe_line.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-spb_head.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-spb_head.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/bg/bg-tab-HS.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\bg\bg-tab-HS.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/btn-appdl.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\btn-appdl.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/icon-download.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\icon-download.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/icon-pdf.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\icon-pdf.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/kv/KV.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\kv\KV.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/kv/skyexchange/kv_cricket.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\kv\skyexchange\kv_cricket.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/left/bg-path_arrow.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\bg-path_arrow.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/left/expand_btn-lv1.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\expand_btn-lv1.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/left/icon-manage.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\icon-manage.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/left/icon-sub_menu.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\icon-sub_menu.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/left/path-back.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\path-back.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/left/path-back_hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\left\path-back_hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/loading40.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\loading40.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/login/icon-browser-B.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\login\icon-browser-B.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/login/logo-betfair-w.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\login\logo-betfair-w.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/login/logo-betfair.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\login\logo-betfair.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main-ds/stake-1click-Yl02.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main-ds\stake-1click-Yl02.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/add-pin-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\add-pin-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/add-pin-s-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\add-pin-s-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/add-pin-s.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\add-pin-s.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/add-pin.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\add-pin.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/arrow-dialog.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\arrow-dialog.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/arrow-score_pop.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\arrow-score_pop.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-backall-left-disabled.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-backall-left-disabled.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-backall-left.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-backall-left.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-backall-left_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-backall-left_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-backall-left_hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-backall-left_hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-HGtab.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-HGtab.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-HGtab_select.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-HGtab_select.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-home.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-home.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-layall-right-disabled.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-layall-right-disabled.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-layall-right.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-layall-right.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-layall-right_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-layall-right_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-layall-right_hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-layall-right_hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-line_market-home.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-line_market-home.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-line_market-name-R.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-line_market-name-R.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-line_market-visit.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-line_market-visit.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-line_market-vs-L.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-line_market-vs-L.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-line_market-vs-R.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-line_market-vs-R.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-other_tab-L.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-other_tab-L.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-other_tab-R.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-other_tab-R.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-tab-select.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-tab-select.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-tab.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-tab.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/bg-visit.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\bg-visit.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-add-pin-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-add-pin-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-add-pin.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-add-pin.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-delete-pin-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-delete-pin-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-delete-pin.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-delete-pin.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-fancybet_rules.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-fancybet_rules.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-fancy_info.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-fancy_info.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/btn-spb_rules.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\btn-spb_rules.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/close-black.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\close-black.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/close_btn-game-black.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\close_btn-game-black.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/close_btn-game-spdemo.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\close_btn-game-spdemo.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/close_btn-game.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\close_btn-game.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/delete-pin-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\delete-pin-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/delete-pin-s-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\delete-pin-s-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/delete-pin-s.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\delete-pin-s.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/delete-pin.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\delete-pin.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/expand_btn-game-black.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\expand_btn-game-black.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/expand_btn-game-spdemo.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\expand_btn-game-spdemo.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/expand_btn-game.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\expand_btn-game.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-arrow_R.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-arrow_R.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-btn_edit.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-btn_edit.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-card-red.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-card-red.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-card-yellow.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-card-yellow.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-cashout.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-cashout.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-chart.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-chart.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-fancy_inplay.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-fancy_inplay.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-in_play.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-in_play.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-irun.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-irun.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-its_turn.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-its_turn.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-live.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-live.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-live_logo-s-open.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-live_logo-s-open.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-live_logo-s.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-live_logo-s.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-news.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-news.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-no_play.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-no_play.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-refresh.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-refresh.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-rules.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-rules.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-soccer.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-soccer.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/icon-time.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\icon-time.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/img-match_odds.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\img-match_odds.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/img-scroe_event.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\img-scroe_event.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/img-scroe_line.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\img-scroe_line.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/more_drop-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\more_drop-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/more_drop.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\more_drop.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/num_down-big.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\num_down-big.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/num_down-big_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\num_down-big_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/num_up-big.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\num_up-big.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/num_up-big_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\num_up-big_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/path_arrow-upcome.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\path_arrow-upcome.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/path_arrow_new.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\path_arrow_new.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/soccer-box.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\soccer-box.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/main/stake-1click.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\main\stake-1click.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_32card-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_32card-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_5CardPoker-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_5CardPoker-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_7mojos-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_7mojos-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_7up7down-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_7up7down-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_andarBahar-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_andarBahar-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_Baccarat-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_Baccarat-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_betgames-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_betgames-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_BigSmall-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_BigSmall-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_blackjack-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_blackjack-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_BonusDice-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_BonusDice-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_bpoker-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_bpoker-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_CallbreakQuick-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_CallbreakQuick-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_cardMatka-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_cardMatka-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_casino-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_casino-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_CoinToss-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_CoinToss-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_ColorGame-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_ColorGame-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_DragonNTiger-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_DragonNTiger-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_evo-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_evo-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_ezugi-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_ezugi-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_Heist-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_Heist-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_horsebook-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_horsebook-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_minesweeper-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_minesweeper-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_NumberKing-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_NumberKing-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_numberMatka-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_numberMatka-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_royalgaming.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_royalgaming.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_rummy-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_rummy-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_sevenUpDown-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_sevenUpDown-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_sicbo-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_sicbo-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_SicBo-Jili-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_SicBo-Jili-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_skyexchangeBlog.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_skyexchangeBlog.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_sports.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_sports.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_spribe.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_spribe.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_supernowa-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_supernowa-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_teenPatti-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_teenPatti-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_TeenPatti2020-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_TeenPatti2020-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_TeenPattiJoker-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_TeenPattiJoker-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/banner_virtualsports.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\banner_virtualsports.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_7up7down-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_7up7down-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_andarBaharVR-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_andarBaharVR-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_autoRoulette-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_autoRoulette-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_dragonTiger-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_dragonTiger-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_DusKaDumVR-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_DusKaDumVR-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_superOverVR-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_superOverVR-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_teenPatti-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_teenPatti-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/gamehall/royalgaming/banner_worliMatkaVR-half.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\gamehall\royalgaming\banner_worliMatkaVR-half.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/mobile/promo/kv-skyexchange-2-m.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\promo\kv-skyexchange-2-m.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/mobile/promo/kv-skyexchange-m.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\mobile\promo\kv-skyexchange-m.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/promo/kv-skyexchange-2.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\promo\kv-skyexchange-2.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/promo/kv-skyexchange.jpg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\promo\kv-skyexchange.jpg
+Content Type: image/jpeg
+
+Uri: https://statics3.skyexch.art/images/promo/loading.svg
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\promo\loading.svg
+Content Type: image/svg+xml
+
+Uri: https://statics3.skyexch.art/images/refresh80.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\refresh80.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/report/btn-cala.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\btn-cala.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/btn-comt-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\btn-comt-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/btn-comt.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\btn-comt.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/btn-replay.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\btn-replay.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/expand-arrow-R.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\expand-arrow-R.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/expand-arrow.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\expand-arrow.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/expand-close.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\expand-close.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/expand-open.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\expand-open.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/filter_dot.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\filter_dot.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/icon-fromto.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\icon-fromto.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/icon-time.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\icon-time.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/icon-user.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\icon-user.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/mext_m-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\mext_m-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/mext_m.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\mext_m.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/prev_m-hover.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\prev_m-hover.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/report/prev_m.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\report\prev_m.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/close_btn-lv2.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\close_btn-lv2.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/del.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\del.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/expand_btn-lv2.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\expand_btn-lv2.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/icon-play_tv.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\icon-play_tv.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/icon-tv.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\icon-tv.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/loading60.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\loading60.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/num_down.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\num_down.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/num_down_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\num_down_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/num_up.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\num_up.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/num_up_disable.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\num_up_disable.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/slip_refresh.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\slip_refresh.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/slip_set.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\slip_set.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/right/tv_popup.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\right\tv_popup.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/skyexchange/bg-login_wrap.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\skyexchange\bg-login_wrap.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/skyexchange/logo.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\skyexchange\logo.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/support_arrow_w.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\support_arrow_w.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/top/icon-stake_edit.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\top\icon-stake_edit.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/top/menu-bet.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\top\menu-bet.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/top/menu-casino.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\top\menu-casino.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/top/menu-tagnew.png
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\top\menu-tagnew.png
+Content Type: image/png
+
+Uri: https://statics3.skyexch.art/images/transparent.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047035527
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-1.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047036793
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-3.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047042122
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-4.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047043136
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-5.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047044270
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-6.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047045413
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-7.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047046491
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-8.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047047555
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-9.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047048642
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-10.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/images/transparent.gif?v=1745047049806
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-11.gif
+Content Type: image/gif
+
+Uri: https://statics3.skyexch.art/js/ajax/AjaxUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\ajax\AjaxUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/const/Const.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\const\Const.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/jquery-1.9.1.min.js?v=20170425
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\jquery-1.9.1.min.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/jquery-migrate-1.4.1.js?v=20170425
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\jquery-migrate-1.4.1.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/jquery.flexslider.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\jquery.flexslider.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/jquery.marquee.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\jquery.marquee.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/KeyEventUtils.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\KeyEventUtils.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/ArionPokerHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\ArionPokerHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/AsianHandicapPlTableUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\AsianHandicapPlTableUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/AwcCasinoHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\AwcCasinoHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/BetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\BetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/BookMakerBetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\BookMakerBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/BookMakerMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\BookMakerMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/BookMakerMultiMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\BookMakerMultiMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/CoinHandler_v2.js?x=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\CoinHandler_v2.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/EventHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\EventHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/EventPinHighlightHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\EventPinHighlightHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/EventResult.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\EventResult.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetKhaddaHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetKhaddaHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetKhaddaMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetKhaddaMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetLotteryHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetLotteryHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetLotteryMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetLotteryMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetMultiMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetMultiMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetThreeSelectionsHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetThreeSelectionsHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FancyBetThreeSelectionsMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FancyBetThreeSelectionsMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FeedingSiteBetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FeedingSiteBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FeedingSiteMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FeedingSiteMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FinancialBetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FinancialBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FinancialMarketBookHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FinancialMarketBookHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FinancialMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FinancialMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/ForecastHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\ForecastHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/FullMarketViewHandler_v2.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\FullMarketViewHandler_v2.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/GameHallHandler.js?x=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\GameHallHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/GLiveStreamingHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\GLiveStreamingHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/GreyHoundRacingPage.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\GreyHoundRacingPage.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/HorseRacingPage.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\HorseRacingPage.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/InPlayPage.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\InPlayPage.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/KeepSessionHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\KeepSessionHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/LiveScoreHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\LiveScoreHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/login.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\login.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/MarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\MarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/MemberPage_v2.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\MemberPage_v2.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/Menu_v4.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\Menu_v4.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/MultiMarketsHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\MultiMarketsHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/NavigationMenu.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\NavigationMenu.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/NavigationOcerMenu.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\NavigationOcerMenu.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/NoTxnIdleHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\NoTxnIdleHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/OnLiveEventsHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\OnLiveEventsHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/OwScorecardHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\OwScorecardHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/PoliticsMarketViewHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\PoliticsMarketViewHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/PopularMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\PopularMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/SearchEventHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\SearchEventHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/SportradarScorecardHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\SportradarScorecardHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/SportsBookBetHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\SportsBookBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/SportsBookEventHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\SportsBookEventHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/SportsBookMultiMarketHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\SportsBookMultiMarketHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/StreamingHandler_v2.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\StreamingHandler_v2.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/TraderInputLiveScoreHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\TraderInputLiveScoreHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/TxnHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\TxnHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/member/UpcomingHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\member\UpcomingHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/rangeslide/rangeslider.min.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\rangeslide\rangeslider.min.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/streaming/v2/hls.min.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\streaming\v2\hls.min.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/streaming/v2/player-min.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\streaming\v2\player-min.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/streaming/v2/streama.min.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\streaming\v2\streama.min.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/text6.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\text6.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/AccountUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\AccountUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/announcement/AnnouncementUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\announcement\AnnouncementUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/announcement/AnnounceSettingHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\announcement\AnnounceSettingHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/BinaryExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\BinaryExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/BookMakerExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\BookMakerExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/BookMakerSelectionUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\BookMakerSelectionUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/Browser.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\Browser.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/CaptchaUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\CaptchaUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/casino/CommonTransferWalletHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\casino\CommonTransferWalletHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/CombinationHandler.js?x=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\CombinationHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/CookieUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\CookieUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/crypto/crypto-js.js
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\crypto\crypto-js.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/CurrencyUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\CurrencyUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/DateUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\DateUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/DOMUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\DOMUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/EncryptUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\EncryptUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/EventHighlightUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\EventHighlightUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/exposure/ExposureUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\exposure\ExposureUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/ExposureHandler.js?x=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\ExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FancyBetExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FancyBetExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FancyBetKhaddaExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FancyBetKhaddaExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FancyBetLotteryExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FancyBetLotteryExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FancyBetRules.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FancyBetRules.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FancyBetSelectionUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FancyBetSelectionUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FinancialEventUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FinancialEventUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FlexSliderUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FlexSliderUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FraudProtectionSystemHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FraudProtectionSystemHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FreshChatHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FreshChatHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/FullMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\FullMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/GoogleAnalyticsHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\GoogleAnalyticsHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/HeadToHeadHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\HeadToHeadHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/I18N.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\I18N.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/IBCExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\IBCExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/JSUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\JSUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/LiveMatchTrackerHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\LiveMatchTrackerHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/LogoutUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\LogoutUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/market/BookMakerMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\market\BookMakerMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/market/FancyBetMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\market\FancyBetMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/market/FeedingSiteMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\market\FeedingSiteMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/market/FinancialMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\market\FinancialMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/market/SportsBookMarketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\market\SportsBookMarketUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/MathUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\MathUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/MyTransactionUtils.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\MyTransactionUtils.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/NaviMenuUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\NaviMenuUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/neua/collector.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\neua\collector.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/neua/NeuAUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\neua\NeuAUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/Notice.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\Notice.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/OddsUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\OddsUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/OneClickBetHandler.js?x=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\OneClickBetHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/QueryDataSubDomainUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\QueryDataSubDomainUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/RacingSportUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\RacingSportUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/SlideBarUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\SlideBarUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/SportradarExposureHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\SportradarExposureHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/SportradarProducerUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\SportradarProducerUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/SportsBookEventUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\SportsBookEventUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/streaming/jbl.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\streaming\jbl.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/streaming/JblHandler.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\streaming\JblHandler.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/streaming/StreamingUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\streaming\StreamingUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/SupportInfoUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\SupportInfoUtil.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/TaskExecuter.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\TaskExecuter.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/TaskExecuterV2.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\TaskExecuterV2.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/Trace.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\Trace.js
+Content Type: text/javascript
+
+Uri: https://statics3.skyexch.art/js/util/UnMatchTicketUtil.js?v=20250416_1744813200000
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\util\UnMatchTicketUtil.js
+Content Type: text/javascript
+
+Uri: https://www.skyexch.art/
+File Name: C:\Downloaded Web Sites\www.skyexch.art\index.htm
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/fullMarket?eventType=4&eventId=28127348&marketId=1.230630840
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\fullMarket.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/index.jsp
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\index.jsp-4.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/index.jsp?eventType=1
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\index.jsp-1.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/index.jsp?eventType=137
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\index.jsp-3.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/index.jsp?eventType=2
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\index.jsp-2.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/index.jsp?eventType=4
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\index.jsp.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/inplay/index.jsp
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\inplay\index.jsp.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/exchange/member/multiMarkets
+File Name: C:\Downloaded Web Sites\www.skyexch.art\exchange\member\multiMarkets.html
+Content Type: text/html
+
+Uri: https://www.skyexch.art/images/transparent.gif
+File Name: C:\Downloaded Web Sites\www.skyexch.art\images\transparent-2.gif
+Content Type: image/gif
+
+Uri: https://www.skyexch.art/js/trafficStatistics/trafficStatistics.js
+File Name: C:\Downloaded Web Sites\www.skyexch.art\js\trafficStatistics\trafficStatistics.js
+Content Type: application/javascript
+
+Uri: https://www.skyexch.art/verifycode.gr
+File Name: C:\Downloaded Web Sites\www.skyexch.art\verifycode.gr
+Content Type: image/jpg
+

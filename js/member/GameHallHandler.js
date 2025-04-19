@@ -1,0 +1,5 @@
+"undefined"==typeof GameHallHandler&&(GameHallHandler={});
+(function(){GameHallHandler.init=function(){""!==location.hash&&(location.hash="");TabMenuHandler.updateSelect("tabMenu","menu_Home");$j(".kv-wrap").show()};GameHallHandler.loginAndLaunchVendor=function(a,c,d){if("undefined"==typeof LoginHandler||LoginHandler.userIsLogin())PageConfig.isAllowAwcGame?$j.ajax({type:"POST",dataType:"JSON",url:"/exchange/member/vendorController/loginAndLaunchGame",data:{vendorSite:a,platform:c,gameCode:d},success:function(b){null!=b&&(b.error?window.open(PageConfig.PLAYER_AWC_CASINO_PAGE+
+"?errorMsg="+b.error,"_blank"):b.success&&window.open(b.success))}}):NoticeHandler.error("Not allow to play this game!")};GameHallHandler.openSlotGamePage=function(a){GameHallHandler.openCasinoGame(a)};GameHallHandler.openSportradarVirtualGamePage=function(a){GameHallHandler.openCasinoGame(a)};GameHallHandler.openCasinoGame=function(a){if("undefined"==typeof LoginHandler||LoginHandler.userIsLogin())PageConfig.isAllowAwcGame?window.open(PageConfig.PLAYER_AWC_CASINO_PAGE+a,"_blank","height=1000,width=1256, location=no"):
+NoticeHandler.error("Not allow to play this game!")}})();
+
