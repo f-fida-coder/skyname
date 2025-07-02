@@ -1345,358 +1345,606 @@
     </div>
 
     <!-- Top start -->
-    <div class="top">
-      <div class="header full-wrap">
-        <h1><a href="../../index.htm">Aura333 </a></h1>
-
-        <div id="searchWrap" class="search-wrap" style="display: none">
-          <div>
-            <input
-              id="searchInput"
-              class="search-input"
-              type="text"
-              placeholder="Search Events"
-            />
-            <button
-              id="searchClear"
-              class="search-clear"
-              style="display: none"
-            ></button>
-          </div>
-          <div id="searchResult" class="suggestion-wrap" style="display: none">
-            <ul id="searchList">
-              <li id="noMatching" style="display: none">
-                <p class="no-matching">No events found matching ...</p>
-              </li>
-              <li id="resultTemplate" style="display: none"><a></a></li>
-            </ul>
-          </div>
-        </div>
-
-        <ul class="login-wrap">
-          <li class="user error">
-            <input id="loginName" type="text" placeholder="Username" />
-          </li>
-          <li>
-            <input id="password" type="password" placeholder="Password" />
-          </li>
-          <li class="valid-code" style="display: block">
-            <input
-              id="validCode"
-              type="text"
-              placeholder="Validation"
-              maxlength="4"
-            />
-            <img id="authenticateImage" src="../../verifycode.gr" />
-          </li>
-          <li>
-            <input
-              id="valid"
-              name="valid"
-              type="hidden"
-              value="39a3fcd2-64aa-4e75-9e04-bb7caae1bc8f"
-            />
-          </li>
-          <li>
-            <a
-              id="loginBtn"
-              class="btn-login"
-              onclick="javascript: return LoginHandler.check(event);"
-              >Login
-              <img
-                class="icon-login"
-                src="../../images/transparent-11.gif?v=1745047049806"
-              />
-            </a>
-          </li>
-
-          <li>
-            <a
-              class="btn-signup"
-              onclick="window.open('https://linktr.ee/SKY_EXCH', '_blank', config='height=850,width=1200,location=no');"
-              >Sign up</a
+    <div _ngcontent-sfk-c36="" class="top" bis_skin_checked="1">
+      <div _ngcontent-sfk-c36="" class="header full-wrap" bis_skin_checked="1">
+        <h1 _ngcontent-sfk-c36="">
+          <a _ngcontent-sfk-c36="" routerlink="/dash" href="/index.htm"
+            >ninewiickets</a
+          >
+        </h1>
+        <!----><!----><app-search-wrap _ngcontent-sfk-c36="" _nghost-sfk-c30=""
+          ><form
+            _ngcontent-sfk-c30=""
+            novalidate=""
+            class="ng-untouched ng-pristine ng-valid"
+          >
+            <div
+              _ngcontent-sfk-c30=""
+              id="searchWrap"
+              class="search-wrap"
+              bis_skin_checked="1"
             >
-          </li>
-
-          <li id="errorMsg" class="error" style="display: none"></li>
-        </ul>
-      </div>
-
-      <!-- Menu Wrap -->
-      <div class="menu-wrap">
-        <div class="full-wrap">
-          <ul id="tabMenu" class="menu">
-            <li>
-              <a id="menu_Home" href="../../index.htm" neua="Home">Home </a>
-            </li>
-
-            <li>
-              <a id="menu_InPlay" href="inplay/index.jsp.html" neua="In-Play"
-                >In-Play
-              </a>
-            </li>
-
-            <li>
+              <div _ngcontent-sfk-c30="" bis_skin_checked="1">
+                <input
+                  _ngcontent-sfk-c30=""
+                  id="searchInput"
+                  type="text"
+                  appinputrestriction="noSpecialChars"
+                  class="search-input ng-untouched ng-pristine ng-valid"
+                  placeholder="Search Event"
+                /><!---->
+              </div>
+              <!---->
+            </div>
+          </form></app-search-wrap
+        ><!----><app-login _ngcontent-sfk-c36="" _nghost-sfk-c35=""
+          ><ul _ngcontent-sfk-c35="" class="login-wrap">
+            <form
+              _ngcontent-sfk-c35=""
+              novalidate=""
+              class="ng-untouched ng-pristine ng-invalid"
+            >
+              <li _ngcontent-sfk-c35="" class="user error">
+                <input
+                  _ngcontent-sfk-c35=""
+                  id="loginName"
+                  type="text"
+                  formcontrolname="userName"
+                  placeholder="Username"
+                  class="ng-untouched ng-pristine ng-invalid"
+                />
+              </li>
+              <li _ngcontent-sfk-c35="" style="position: relative">
+                <input
+                  _ngcontent-sfk-c35=""
+                  id="password"
+                  formcontrolname="password"
+                  placeholder="Password"
+                  type="password"
+                  class="ng-untouched ng-pristine ng-invalid"
+                /><!---->
+              </li>
+              <li _ngcontent-sfk-c35="" class="valid-code">
+                <input
+                  _ngcontent-sfk-c35=""
+                  id="captcha"
+                  type="text"
+                  pattern="[0-9]{4}"
+                  maxlength="4"
+                  formcontrolname="captcha"
+                  placeholder="Validation"
+                  class="ng-untouched ng-pristine ng-invalid"
+                /><img
+                  _ngcontent-sfk-c35=""
+                  id="authenticateImage"
+                  src="data:image/jpeg;base64, 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"
+                />
+              </li>
+              <!---->
+              <li _ngcontent-sfk-c35="">
+                <input
+                  _ngcontent-sfk-c35=""
+                  id="valid"
+                  name="valid"
+                  type="hidden"
+                  value="a250bae1-b090-4324-8f5d-3606d40431ba"
+                />
+              </li>
+              <li _ngcontent-sfk-c35="">
+                <a _ngcontent-sfk-c35="" id="loginBtn" class="btn-login"
+                  >Login
+                  <!-- <img _ngcontent-sfk-c35="" src="assets/images/transparent.gif" alt="transparent" loading="lazy" class="icon-login"> --> </a
+                ><button
+                  _ngcontent-sfk-c35=""
+                  type="submit"
+                  style="display: none"
+                ></button>
+              </li>
+              <li _ngcontent-sfk-c35="">
+                <a
+                  _ngcontent-sfk-c35=""
+                  id="loginBtn"
+                  target="_blank"
+                  class="btn-login btn-send btn-signup btn-signuplc"
+                  href="https://agent9w.com/9wicket-master-agent/"
+                  >Agent List</a
+                >
+              </li>
+              <!----><!---->
+              <li _ngcontent-sfk-c35="" id="errorMsg" class="error">
+                <!----><!----><!----><!---->
+              </li>
+            </form>
+          </ul>
+          <div
+            _ngcontent-sfk-c35=""
+            id="loginBox"
+            class="overlay"
+            style="display: none"
+            bis_skin_checked="1"
+          >
+            <div
+              _ngcontent-sfk-c35=""
+              class="dialog-wrap-w login_to_go"
+              bis_skin_checked="1"
+            >
+              <div _ngcontent-sfk-c35="" class="kv" bis_skin_checked="1"></div>
+              <form
+                _ngcontent-sfk-c35=""
+                novalidate=""
+                class="ng-untouched ng-pristine ng-invalid"
+              >
+                <dl _ngcontent-sfk-c35="" class="login-panel">
+                  <dt _ngcontent-sfk-c35="">Please login to continue</dt>
+                  <dd _ngcontent-sfk-c35="">
+                    <input
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxLoginName"
+                      type="text"
+                      formcontrolname="userName"
+                      placeholder="Username"
+                      class="ng-untouched ng-pristine ng-invalid"
+                    />
+                  </dd>
+                  <dd _ngcontent-sfk-c35="">
+                    <input
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxPassword"
+                      formcontrolname="password"
+                      placeholder="Password"
+                      type="password"
+                      class="ng-untouched ng-pristine ng-invalid"
+                    /><!---->
+                  </dd>
+                  <dd _ngcontent-sfk-c35="" class="valid-code">
+                    <input
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxValidCode"
+                      type="text"
+                      pattern="[0-9]{4}"
+                      maxlength="4"
+                      formcontrolname="captcha"
+                      placeholder="Validation Code"
+                      class="ng-untouched ng-pristine ng-invalid"
+                    /><img
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxAuthenticateImage"
+                      src="data:image/jpeg;base64, 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"
+                    />
+                  </dd>
+                  <!---->
+                  <dd _ngcontent-sfk-c35="">
+                    <input
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxValid"
+                      name="valid"
+                      type="hidden"
+                      value="a250bae1-b090-4324-8f5d-3606d40431ba"
+                      maxlength="4"
+                    />
+                  </dd>
+                  <dd _ngcontent-sfk-c35="">
+                    <a
+                      _ngcontent-sfk-c35=""
+                      id="loginBoxLoginBtn"
+                      class="btn-send"
+                      style="cursor: pointer"
+                      >Login
+                      <img
+                        _ngcontent-sfk-c35=""
+                        src="assets/images/transparent.gif"
+                        alt="transparent"
+                        loading="lazy"
+                        class="icon-login"
+                      /> </a
+                    ><button
+                      _ngcontent-sfk-c35=""
+                      type="submit"
+                      style="display: none"
+                    ></button>
+                  </dd>
+                  <dd _ngcontent-sfk-c35="" id="loginBoxErrorMsg" class="error">
+                    <!----><!----><!----><!---->
+                  </dd>
+                </dl>
+              </form>
               <a
-                id="menu_MultiMarkets"
-                href="multiMarkets.html"
-                neua="Multi Markets"
-                >Multi Markets
-              </a>
+                _ngcontent-sfk-c35=""
+                id="close"
+                class="close"
+                style="right: 10px"
+              ></a>
+            </div></div></app-login
+        ><!----><!----><!----><!----><!---->
+      </div>
+      <div _ngcontent-sfk-c36="" class="menu-wrap" bis_skin_checked="1">
+        <div _ngcontent-sfk-c36="" class="full-wrap" bis_skin_checked="1">
+          <ul _ngcontent-sfk-c36="" id="tabMenu" class="menu">
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_Home"
+                routerlink="/dash"
+                href="/index.htm"
+                class=""
+                >Home</a
+              >
             </li>
-
-            <li>
-              <a id="menu_CRICKET" href="index.jsp.html?eventType=4">
-                <span id="tagLive" class="tag-live" style="display: none"
-                  ><strong></strong>0</span
+            <!----><!---->
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_InPlay"
+                routerlink="/running"
+                href="/exchange/member/inplay/index.jsp.html"
+                class=""
+                >In-Play</a
+              >
+            </li>
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_MultiMarkets"
+                routerlink="/multimarkets"
+                href="/exchange/member/multimarkets.html"
+                class=""
+                >Multi market</a
+              >
+            </li>
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_cricket"
+                href="/exchange/member/index.jsp.html"
+                class=""
+                ><span _ngcontent-sfk-c36="" id="tagLive" class="tag-live"
+                  ><strong _ngcontent-sfk-c36=""></strong>6</span
                 >
                 Cricket
               </a>
             </li>
-
-            <li>
-              <a id="menu_SOCCER" href="index.jsp-1.html?eventType=1">
-                <span id="tagLive" class="tag-live" style="display: none"
-                  ><strong></strong>0</span
+            <!----><!---->
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_soccer"
+                href="/exchange/member/index.jsp-1.html"
+                class="select"
+                ><span _ngcontent-sfk-c36="" id="tagLive" class="tag-live"
+                  ><strong _ngcontent-sfk-c36=""></strong>2</span
                 >
                 Soccer
               </a>
             </li>
-
-            <li>
-              <a id="menu_TENNIS" href="index.jsp-2.html?eventType=2">
-                <span id="tagLive" class="tag-live" style="display: none"
-                  ><strong></strong>0</span
+            <!----><!---->
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="menu_tennis"
+                href="/exchange/member/index.jsp-2.html"
+                ><span _ngcontent-sfk-c36="" id="tagLive" class="tag-live"
+                  ><strong _ngcontent-sfk-c36=""></strong>3</span
                 >
                 Tennis
               </a>
             </li>
-
-            <li ui-use="sportradar_virtual_sports">
-              <a
-                class=""
-                href="javascript:CommonTransferWalletHandler.openDepositPage('1', 'BetRadar', 'SPORTRADAR', '', 'SPORTRADAR_VIRTUAL_001', '', true)"
-                neua="Virtual Cricket"
-              >
-                Virtual Cricket
-              </a>
+            <!----><!----><!----><!----><!---->
+            <li _ngcontent-sfk-c36=""><!----></li>
+            <li _ngcontent-sfk-c36="">
+              <a _ngcontent-sfk-c36="" id="menu_HORSE_RACING">Horse Racing</a>
             </li>
-
-            <li>
-              <a id="menu_E_SOCCER" href="index.jsp-3.html?eventType=137">
-                <span id="tagLive" class="tag-live" style="display: none"
-                  ><strong></strong>0</span
-                >
-                E-Soccer
-              </a>
-            </li>
-
-            <li>
-              <a
-                id="menu_CRICKET_28127348_1_230630840"
-                href="fullMarket.html?eventType=4&eventId=28127348&marketId=1.230630840"
-                >IPL Winner</a
+            <!---->
+            <li _ngcontent-sfk-c36="">
+              <a _ngcontent-sfk-c36="" id="menu_GREYHOUND_RACING"
+                >GreyHound Racing</a
               >
             </li>
+            <!---->
+            <li _ngcontent-sfk-c36=""><a _ngcontent-sfk-c36="">AURA</a></li>
+            <!---->
+            <li _ngcontent-sfk-c36="">
+              <a _ngcontent-sfk-c36="" class="casino tag-new">Casino</a>
+            </li>
+            <!----><!----><!----><!----><!----><!----><!----><!----><!---->
           </ul>
-
-          <ul class="setting-wrap">
-            <li class="time_zone"><span>Time Zone :</span> GMT+5:30</li>
-            <li>&nbsp&nbsp&nbsp</li>
-
-            <li>
+          <ul _ngcontent-sfk-c36="" class="setting-wrap">
+            <li _ngcontent-sfk-c36="" class="time_zone">
+              <span _ngcontent-sfk-c36="">Time Zone :</span
+              ><span _ngcontent-sfk-c36="" class="gmt-time">GMT+5:30</span>
+            </li>
+            <li _ngcontent-sfk-c36="">&nbsp;&nbsp;&nbsp;</li>
+            <li _ngcontent-sfk-c36="">
               <a
+                _ngcontent-sfk-c36=""
                 id="oneClickSetting"
                 class="one_click"
-                style="cursor: pointer; display: none"
-                ><img src="../../images/transparent.gif" />One Click Bet
+                style="cursor: pointer"
+              >
+                <!-- <img _ngcontent-sfk-c36="" src="assets/images/transparent.gif" alt="transparent" loading="lazy"> -->
+
+                One Click Bet
               </a>
             </li>
-
-            <li>
-              <a id="slipSet" class="setting" style="cursor: pointer"
-                >Setting <img src="../../images/transparent.gif"
-              /></a>
+            <li _ngcontent-sfk-c36="">
+              <a
+                _ngcontent-sfk-c36=""
+                id="slipSet"
+                class="setting"
+                style="cursor: pointer"
+                >Setting
+                <!-- <img _ngcontent-sfk-c36="" src="..assets/images/transparent.gif" alt="transparent" loading="lazy"> -->
+              </a>
             </li>
           </ul>
-
-          <div id="set_pop" class="slip_set-pop" style="display: none">
-            <div id="coinList" class="set-content">
-              <dl class="odds-set">
-                <dd class="col-defult">
-                  <label for="defult_stake"
-                    ><strong>Default stake </strong></label
-                  >
-                  <input
-                    id="userCoin"
-                    class="stake-input"
-                    type="text"
-                    maxlength="7"
-                    value=""
-                  />
-                </dd>
-              </dl>
-
-              <dl id="stakeSet" class="stake-set">
-                <dt>Stake</dt>
-                <dd>
-                  <a id="coin_1" style="cursor: pointer" class="btn">10</a>
-                </dd>
-                <dd>
-                  <a id="coin_2" style="cursor: pointer" class="btn">30</a>
-                </dd>
-                <dd>
-                  <a id="coin_3" style="cursor: pointer" class="btn">50</a>
-                </dd>
-                <dd>
-                  <a id="coin_4" style="cursor: pointer" class="btn">100</a>
-                </dd>
-                <dd>
-                  <a id="coin_5" style="cursor: pointer" class="btn">200</a>
-                </dd>
-                <dd>
-                  <a id="coin_6" style="cursor: pointer" class="btn">300</a>
-                </dd>
-                <dd>
-                  <a id="coin_7" style="cursor: pointer" class="btn">500</a>
-                </dd>
-                <dd>
-                  <a id="coin_8" style="cursor: pointer" class="btn">1000</a>
-                </dd>
-                <dd class="col-edit">
-                  <a id="edit" class="btn-edit"
-                    >Edit <img src="../../images/transparent.gif"
-                  /></a>
-                </dd>
-              </dl>
-              <dl
-                id="editCustomizeStakeList"
-                class="stake-set"
-                style="display: none"
+          <app-setting-pop _ngcontent-sfk-c36="" _nghost-sfk-c33=""
+            ><div
+              _ngcontent-sfk-c33=""
+              id="set_pop"
+              class="slip_set-pop"
+              style="display: none"
+              bis_skin_checked="1"
+            >
+              <div
+                _ngcontent-sfk-c33=""
+                id="coinList"
+                class="set-content"
+                bis_skin_checked="1"
               >
-                <dt>Stake</dt>
-                <dd>
-                  <input
-                    id="stakeEdit_1"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_2"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_3"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_4"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_5"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_6"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_7"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd>
-                  <input
-                    id="stakeEdit_8"
-                    class="stake_edit-input"
-                    type="text"
-                    value=""
-                    maxlength="7"
-                  />
-                </dd>
-                <dd class="col-edit"><a id="ok" class="btn-send">OK</a></dd>
-              </dl>
-
-              <dl class="odds-set">
-                <dt>Odds</dt>
-                <dd>
-                  <input id="enableSparkCheck" type="checkbox" /><label
-                    for="enableSparkCheck"
-                    >Highlight when odds change
-                  </label>
-                </dd>
-              </dl>
-
-              <dl class="odds-set">
-                <dt>FancyBet</dt>
-                <dd>
-                  <input
-                    id="fancyBetAcceptAnyOddsCheckBox"
-                    type="checkbox"
-                  /><label for="fancy_odd">Accept Any Odds </label>
-                </dd>
-              </dl>
-
-              <dl class="odds-set">
-                <dt>Win Selection forecast</dt>
-                <dd>
-                  <input
-                    id="withCommCheckBox"
-                    type="checkbox"
-                    checked=""
-                  /><label for="withCommCheckBox">With Commission</label>
-                </dd>
-              </dl>
-              <ul class="btn-wrap">
-                <li>
-                  <a id="closeSet" class="btn" style="cursor: pointer"
-                    >Cancel
-                  </a>
-                </li>
-                <li class="col-send">
-                  <a id="coinSave" class="btn-send" style="cursor: pointer"
-                    >Save
-                  </a>
-                </li>
-              </ul>
-            </div>
-          </div>
+                <dl _ngcontent-sfk-c33="" class="odds-set">
+                  <dd _ngcontent-sfk-c33="" class="col-defult">
+                    <label _ngcontent-sfk-c33="" for="defult_stake"
+                      ><strong _ngcontent-sfk-c33=""
+                        >Default Stake</strong
+                      ></label
+                    ><input
+                      _ngcontent-sfk-c33=""
+                      id="userCoin"
+                      type="text"
+                      maxlength="7"
+                      value=""
+                      numberonly=""
+                      class="stake-input"
+                    />
+                  </dd>
+                </dl>
+                <dl _ngcontent-sfk-c33="" id="stakeSet" class="stake-set">
+                  <dt _ngcontent-sfk-c33="">Stake</dt>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_1"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >100</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_2"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >500</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_3"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >1000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_4"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >2000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_5"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >5000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_6"
+                      class="btn select"
+                      style="cursor: pointer"
+                      >10000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_7"
+                      class="btn"
+                      style="cursor: pointer"
+                      >20000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coin_8"
+                      class="btn"
+                      style="cursor: pointer"
+                      >20000</a
+                    >
+                  </dd>
+                  <dd _ngcontent-sfk-c33="" class="col-edit">
+                    <a _ngcontent-sfk-c33="" id="edit" class="btn-edit"
+                      >Edit
+                      <img
+                        _ngcontent-sfk-c33=""
+                        src="assets/images/transparent.gif"
+                        alt="transparent"
+                        loading="lazy"
+                    /></a>
+                  </dd>
+                </dl>
+                <form
+                  _ngcontent-sfk-c33=""
+                  novalidate=""
+                  class="ng-untouched ng-pristine ng-valid"
+                >
+                  <dl
+                    _ngcontent-sfk-c33=""
+                    id="editCustomizeStakeList"
+                    class="stake-set"
+                    style="display: none"
+                  >
+                    <dt _ngcontent-sfk-c33="">Stake</dt>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_1"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake1"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_2"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake2"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_3"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake3"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_4"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake4"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_5"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake5"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_6"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake6"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_7"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake7"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="">
+                      <input
+                        _ngcontent-sfk-c33=""
+                        id="stakeEdit_8"
+                        numberonly=""
+                        type="text"
+                        value=""
+                        maxlength="7"
+                        formcontrolname="stake8"
+                        class="stake_edit-input ng-untouched ng-pristine ng-valid"
+                      />
+                    </dd>
+                    <dd _ngcontent-sfk-c33="" class="col-edit">
+                      <a _ngcontent-sfk-c33="" id="ok" class="btn-send">OK</a>
+                    </dd>
+                  </dl>
+                </form>
+                <!----><!---->
+                <dl _ngcontent-sfk-c33="" class="odds-set">
+                  <dt _ngcontent-sfk-c33=""></dt>
+                  <dd _ngcontent-sfk-c33="">
+                    <input
+                      _ngcontent-sfk-c33=""
+                      id="enableSparkCheck"
+                      type="checkbox"
+                    /><label _ngcontent-sfk-c33="" for="enableSparkCheck"
+                      >Highlight When Odds Changes</label
+                    >
+                  </dd>
+                </dl>
+                <ul _ngcontent-sfk-c33="" class="btn-wrap">
+                  <li _ngcontent-sfk-c33="">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="closeSet"
+                      class="btn"
+                      style="cursor: pointer"
+                      >Cancel</a
+                    >
+                  </li>
+                  <li _ngcontent-sfk-c33="" class="col-send">
+                    <a
+                      _ngcontent-sfk-c33=""
+                      id="coinSave"
+                      class="btn-send"
+                      style="cursor: pointer"
+                      >SAVE</a
+                    >
+                  </li>
+                </ul>
+              </div>
+            </div></app-setting-pop
+          >
         </div>
       </div>
     </div>
+
     <!-- Top end -->
 
     <script src="../../js/util/casino/CommonTransferWalletHandler.js?v=20250416_1744813200000"></script>
